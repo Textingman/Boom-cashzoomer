@@ -21,19 +21,19 @@ export default function PrivacyPage() {
             </div>
             <div className="hidden md:block">
               <div className="ml-10 flex items-baseline space-x-4">
-                <Link href="/" className="text-gray-600 hover:text-[#2563eb] px-3 py-2 rounded-md text-sm font-medium">
+                <Link href="/" className="text-gray-600 hover:text-[#10B981] px-3 py-2 rounded-md text-sm font-medium">
                   Home
                 </Link>
-                <Link href="/about" className="text-gray-600 hover:text-[#2563eb] px-3 py-2 rounded-md text-sm font-medium">
+                <Link href="/about" className="text-gray-600 hover:text-[#10B981] px-3 py-2 rounded-md text-sm font-medium">
                   About
                 </Link>
-                <Link href="/privacy" className="text-gray-900 hover:text-[#2563eb] px-3 py-2 rounded-md text-sm font-medium">
+                <Link href="/privacy" className="text-gray-900 hover:text-[#10B981] px-3 py-2 rounded-md text-sm font-medium">
                   Privacy
                 </Link>
-                <Link href="/terms" className="text-gray-600 hover:text-[#2563eb] px-3 py-2 rounded-md text-sm font-medium">
+                <Link href="/terms" className="text-gray-600 hover:text-[#10B981] px-3 py-2 rounded-md text-sm font-medium">
                   Terms
                 </Link>
-                <Link href="/signup" className="bg-[#2563eb] text-white hover:bg-[#1d4ed8] px-4 py-2 rounded-md text-sm font-medium">
+                <Link href="/signup" className="bg-[#10B981] text-white hover:bg-[#059669] px-4 py-2 rounded-md text-sm font-medium">
                   Get Started
                 </Link>
               </div>
@@ -156,7 +156,7 @@ export default function PrivacyPage() {
             <li><strong>Opt-out:</strong> Opt out of marketing communications</li>
           </ul>
           <p className="text-gray-600 mb-6">
-            To exercise these rights, please contact us at <a href="mailto:privacy@nrcverify.com" className="text-[#2563eb] hover:text-[#1d4ed8]">privacy@nrcverify.com</a>.
+            To exercise these rights, please contact us at <a href="mailto:privacy@nrcverify.com" className="text-[#10B981] hover:text-[#059669]">privacy@nrcverify.com</a>.
           </p>
 
           <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">8. Cookies and Tracking Technologies</h2>
@@ -194,9 +194,9 @@ export default function PrivacyPage() {
             If you have any questions about this Privacy Policy or our privacy practices, please contact us:
           </p>
           <div className="bg-gray-50 rounded-lg p-6 mb-8">
-            <p className="text-gray-600 mb-2"><strong>Email:</strong> <a href="mailto:privacy@nrcverify.com" className="text-[#2563eb] hover:text-[#1d4ed8]">privacy@nrcverify.com</a></p>
-            <p className="text-gray-600 mb-2"><strong>Support:</strong> <a href="mailto:support@nrcverify.com" className="text-[#2563eb] hover:text-[#1d4ed8]">support@nrcverify.com</a></p>
-            <p className="text-gray-600"><strong>Website:</strong> <a href="/" className="text-[#2563eb] hover:text-[#1d4ed8]">https://nrcverify.com</a></p>
+            <p className="text-gray-600 mb-2"><strong>Email:</strong> <a href="mailto:privacy@nrcverify.com" className="text-[#10B981] hover:text-[#059669]">privacy@nrcverify.com</a></p>
+            <p className="text-gray-600 mb-2"><strong>Support:</strong> <a href="mailto:support@nrcverify.com" className="text-[#10B981] hover:text-[#059669]">support@nrcverify.com</a></p>
+            <p className="text-gray-600"><strong>Website:</strong> <a href="/" className="text-[#10B981] hover:text-[#059669]">https://nrcverify.com</a></p>
           </div>
 
         </div>
